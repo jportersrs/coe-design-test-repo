@@ -1,0 +1,22 @@
+{
+  "name": "coe-design-test-repo",
+  "version": "1.0.1",
+  "description": "coe design test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jportersrs/coe-design-test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jportersrs/coe-design-test-repo/issues"
+  },
+  "homepage": "https://github.com/jportersrs/coe-design-test-repo#readme",
+  "dependencies": {
+    "coe-design-test-repo": "^1.0.0"
+  }
+}
